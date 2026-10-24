@@ -49,8 +49,7 @@ Femora-PCOS-Wellness/
 ├── pcos_scaler.pkl
 ├── feature_names.pkl
 ├── README.md
-├── notebooks/
-│   └── Femora_ANN_Development.ipynb
+├── RM.ipynb
 
 ```
 
