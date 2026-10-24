@@ -135,14 +135,13 @@ These explanations describe model behaviour; they do not establish medical causa
 
 - **Source code:** Available in this repository.
 - **Model-development notebook:** `notebooks/Femora_ANN_Development.ipynb`
-- **IEEE DataPort:** [Add the actual dataset or project URL, if applicable]
-- **Research paper:** [Add the paper link when available]
+- **IEEE DataPort:** [Add the actual dataset or project URL, if applicabl]
 - **Project presentation:** [Add the presentation link when available]
 
 ## 👩‍💻 Project Information
 
 - **Project:** Femora — An Explainable ANN-Based PCOS Risk Assessment and Lifestyle Guidance Research Prototype
-- **Author(s):** [Add the actual author names]
+- **Author(s):** Chittaloori Likhitha
 - **Institution:** Amrita Vishwa Vidyapeetham, Coimbatore
 - **Project type:** Academic research project
 
