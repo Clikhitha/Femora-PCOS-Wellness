@@ -146,9 +146,7 @@ These explanations describe model behaviour; they do not establish medical causa
 
 ## 📜 License
 
-[Add the license selected for this project. If no license has been selected, leave this section pending.]
-
----
+This project is open-source and free to use for educational and research purposes.
 
 Femora is intended to support research and exploration of explainable AI in women's health. It is not intended to diagnose, treat, or prevent any medical condition.# Femora-PCOS-Wellness
 Femora — An Explainable ANN-Based PCOS Risk Assessment and Lifestyle Guidance Research Prototype
