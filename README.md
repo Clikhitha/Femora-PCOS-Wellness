@@ -134,8 +134,8 @@ These explanations describe model behaviour; they do not establish medical causa
 
 - **Source code:** Available in this repository.
 - **Model-development notebook:** `notebooks/Femora_ANN_Development.ipynb`
-- **IEEE DataPort:** [Add the actual dataset or project URL, if applicabl]
-- **Project presentation:** [Add the presentation link when available]
+- **IEEE DataPort:** https://ieee-dataport.org/documents/polycystic-ovary-syndrome-pcos-comprehensive-questionnaire-based-dataset-demographic
+  
 
 ## 👩‍💻 Project Information
 
